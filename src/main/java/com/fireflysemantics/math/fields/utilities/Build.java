@@ -18,7 +18,7 @@ import java.util.Arrays;
 
 import com.fireflysemantics.math.fields.interfaces.Field;
 
-/** Build collections of Fields instances */
+/** Build collections of Field instances */
 
 public class Build {
 
